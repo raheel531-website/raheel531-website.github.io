@@ -7,9 +7,12 @@
 <style type="text/css">
   body{
     background-image: url('https://islamicrelief.org.au/wp-content/uploads/2023/04/pexels-mohammad-ramezani-16135714-scaled.jpg')
+    background-size:contain
+      background-repeat:no repeat;
+  background-size:cover;>
   }
+  
 </style>
   
 </body>
-  
-</html>
+  </html>
